@@ -30,3 +30,12 @@ function multiply(a,b){
     return a*b
 }
 ```
+
+### Education
+
+Belarusian National Technical University
+
+### Languages
+
+- Russian - Native
+- English - Duolingo in process
