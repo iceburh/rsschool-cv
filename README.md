@@ -1,1 +1,1 @@
-# rsschool-cv
+https://iceburh.github.io/rsschool-cv/cv
